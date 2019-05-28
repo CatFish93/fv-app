@@ -1,9 +1,13 @@
 # fv-app
 
-1.install dependencies
+``` bash
+
+# install dependencies
 cd "项目文件"
 npm install
 
-2.npm run dev
+# npm run dev
 
-3.未完成！
+# 未完成！
+
+```
